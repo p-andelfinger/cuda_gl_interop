@@ -1,4 +1,3 @@
-#include <GL/gl.h>
 #include "cuda_gl_interop.h"
 #include "cuda_check_error.h"
 
